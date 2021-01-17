@@ -383,7 +383,7 @@ h2 a{
 
 @media (max-width:750px){
     #homepage{
-        height: 100vh;
+        height: 125vh;
         position: relative;
     }
 
